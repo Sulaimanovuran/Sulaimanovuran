@@ -1,14 +1,13 @@
-# Hi, I'm Roman 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
-
+# Hi, I'm Uran 👋
+Junior web developer with good (1 year) commercial experience. I have excellent knowledge in Python backend development (Django, Flask, DRF). Worked on microservices and monolithic architectures. Most of my work is REST API based CRM systems development.
+<!-- 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/romankh3/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
+</p> -->
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/romankh3/">
