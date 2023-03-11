@@ -31,6 +31,7 @@ Junior web developer with good (1 year) commercial experience. I have excellent 
 *   Python, HTML, CSS, JavaScript(base)
 *   MySQL, PostgreSQL, MongoDB, SQLite, Redis
 *   Django, DRF, Flask
+*   Google Cloud Console, Heroku, AWS, Digital Ocean
 *   GitHub/GitLab
 
 
